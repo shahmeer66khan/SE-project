@@ -1,6 +1,11 @@
 # SE-project
 Hospital Management system
-Shahmeer Khan 64160
-Zain ullah
-Abdul Raoof 63159
-Izahar Kareem
+
+### PROJECT MEMBERS
+
+| StdID     | Name              |
+| --------- | ----------------- |
+| **64160** | **Shahmeer khan** |
+|           | Zain ullah        |
+| 63159     | Abdul Raoof       |
+|           | Izahar Kareem     |
